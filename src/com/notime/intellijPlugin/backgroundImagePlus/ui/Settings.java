@@ -48,7 +48,7 @@ public class Settings implements Configurable {
     @Nls
     @Override
     public String getDisplayName() {
-        return "Background Image";
+        return "Image URL File";
     }
     
     @Nullable
